@@ -92,11 +92,13 @@ parserConfig = {
         "yonghu",
         "email",
         "account",
+        "userName",
     ],
     "password_keyword_list": [  # 密码参数关键字列表
         "pass",
         "pw",
-        "mima"
+        "mima",
+        "password"
     ],
 
     "captcha_keyword_list": [  # 验证码关键字列表
